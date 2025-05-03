@@ -1,15 +1,15 @@
-Hey there! I’m Adrian Garza 👋 — Junior Developer ready to grow 🚀
+## Hey there! I’m Adrian Garza 👋 — Junior Developer ready to grow 🚀
 
 I’m 18 years old and just getting started as a developer. I love learning new things, writing code, and building projects that help me level up as a programmer 💻✨
 
 On this profile, you’ll find personal projects, ideas I’m working on, and experiments as I keep learning. Every repo is part of my journey to becoming a professional developer 🛠
 
-Technologies I use or I’m learning:
-	•	HTML, CSS, JavaScript 🧑‍💻
-	•	React, Node.js ⚛🌐
-	•	Git & GitHub 🗂
-	•	Some Python 🐍
-	•	And more to come! Always eager to learn 💡
+### Technologies I use or I’m learning:
+- *HTML, CSS, JavaScript 🧑‍💻
+- *React, Node.js ⚛🌐
+- *Git & GitHub 🗂
+- *Some Python 🐍
+- *And more to come! Always eager to learn 💡
 
 I’m open to feedback, collaborations, or just connecting with others who love coding 🤝
 Thanks for checking out my profile! More projects coming soon! 🔥
