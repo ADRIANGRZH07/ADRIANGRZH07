@@ -15,20 +15,19 @@ I’m open to feedback, collaborations, or just connecting with others who love 
 Thanks for checking out my profile! More projects coming soon! 🔥
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*¡Hola! Soy Adrian Garza 👋 — Programador Jr. con muchas ganas de crecer 🚀*
+## ¡Hola! Soy Adrian Garza 👋 — Programador Jr. con muchas ganas de crecer 🚀
 
-*Tengo 18 años* y estoy dando mis primeros pasos como desarrollador. Me encanta aprender cosas nuevas, escribir código y construir proyectos que me ayuden a mejorar como programador 💻✨
+Tengo 18 años y estoy dando mis primeros pasos como desarrollador. Me encanta aprender cosas nuevas, escribir código y construir proyectos que me ayuden a mejorar como programador 💻✨
 
-*En este perfil vas a encontrar* proyectos personales, ideas en desarrollo y cosas que voy probando mientras aprendo. Cada repo es parte de mi camino como futuro desarrollador profesional 🛠
+En este perfil vas a encontrar proyectos personales, ideas en desarrollo y cosas que voy probando mientras aprendo. Cada repo es parte de mi camino como futuro desarrollador profesional 🛠
 
-*Tecnologías que uso o estoy aprendiendo:*  
+### Tecnologías que uso o estoy aprendiendo:  
 - *HTML, CSS, JavaScript* 🧑‍💻  
 - *React, Node.js* ⚛🌐  
 - *Git & GitHub* 🗂  
 - *Un poco de Python* 🐍  
 - *¡Y lo que venga!* Siempre con ganas de aprender más 💡
 
-**Estoy abierto a feedback, colaboraciones o simplemente conectar con más gente que ame programar 🤝  
-¡Gracias por pasarte por mi perfil! ¡Se vienen más proyectos! 🔥**
-
+## Estoy abierto a feedback, colaboraciones o simplemente conectar con más gente que ame programar 🤝  
+*¡Gracias por pasarte por mi perfil! ¡Se vienen más proyectos! 🔥*
 
