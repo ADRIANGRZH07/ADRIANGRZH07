@@ -28,6 +28,5 @@ En este perfil vas a encontrar proyectos personales, ideas en desarrollo y cosas
 - *Un poco de Python* 🐍  
 - *¡Y lo que venga!* Siempre con ganas de aprender más 💡
 
-## Estoy abierto a feedback, colaboraciones o simplemente conectar con más gente que ame programar 🤝  
-*¡Gracias por pasarte por mi perfil! ¡Se vienen más proyectos! 🔥*
+## Estoy abierto a feedback, colaboraciones o simplemente conectar con más gente que ame programar 🤝  *¡Gracias por pasarte por mi perfil! ¡Se vienen más proyectos! 🔥*
 
